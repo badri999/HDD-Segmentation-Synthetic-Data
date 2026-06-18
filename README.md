@@ -21,18 +21,15 @@ The public release will include:
 
 - synthetic HDD images
 - instance segmentation annotations
-- object detection annotations
 - class definitions
 - instructions for dataset usage
 
 ## Access
 
-The dataset files are not yet hosted in this repository.
+The dataset files are available at: https://huggingface.co/datasets/badri999/syn-hdd-seg/tree/main
 
-Once released, this README will be updated with:
+This README will be updated with:
 
-- a direct download link
-- hosting location information
 - dataset structure
 - annotation format details
 - usage instructions
