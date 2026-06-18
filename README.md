@@ -6,7 +6,7 @@ This repository provides access information and documentation for the synthetic 
 
 ## Status
 
-The dataset download link is **coming soon**.  
+The dataset download link is (https://huggingface.co/datasets/badri999/syn-hdd-seg/tree/main).  
 This repository will be updated with the public download link and access instructions once hosting is finalized.
 
 ## Overview
